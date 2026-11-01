@@ -1,0 +1,487 @@
+﻿{
+  "nav": {
+    "about": "À propos",
+    "industries": "Secteurs",
+    "features": "Fonctionnalités",
+    "pricing": "Tarifs",
+    "contact": "Contact",
+    "login": "Connexion",
+    "getStarted": "Commencer",
+    "home": "Accueil",
+    "openMenu": "Ouvrir le menu",
+    "closeMenu": "Fermer le menu",
+    "language": "Langue",
+    "backToHome": "Retour à l'accueil"
+  },
+  "hero": {
+    "badge": "L'automatisation par l'IA pour les équipes en croissance",
+    "title": "Automatisez les tâches répétitives. Gardez les décisions.",
+    "subtitle": "OmniAI connecte vos outils, apprend vos processus et les exécute pour vous, afin que votre équipe consacre sa journée aux tâches qui demandent un humain.",
+    "cta": "Commencer",
+    "secondary": "Voir comment ça marche",
+    "trusted": "Plus de 500 équipes nous font confiance pour automatiser leur travail quotidien",
+    "cards": {
+      "timeSaved": "Temps gagné cette semaine",
+      "hours": "128 h",
+      "hoursReturned": "Heures rendues à votre équipe",
+      "workflow": "Workflow automatisé",
+      "active": "Actif",
+      "invoice": "Relances de factures",
+      "running": "En cours · 42 envoyées aujourd'hui",
+      "tasksCompleted": "Tâches terminées",
+      "today": "Aujourd'hui",
+      "tasks": "1 284 tâches",
+      "routineWork": "Travail routinier géré par l'IA"
+    }
+  },
+  "about": {
+    "title": "Nous faisons de l'automatisation un coéquipier, pas un projet",
+    "text": "OmniAI s'occupe des copier-coller et des relances, et continue de travailler pendant que vous vous concentrez sur les décisions qui comptent.",
+    "values": [
+      {
+        "title": "Conçu autour de votre processus",
+        "text": "Nous étudions le fonctionnement de votre équipe avant d'automatiser quoi que ce soit."
+      },
+      {
+        "title": "En ligne en quelques semaines, pas en mois",
+        "text": "La plupart des clients lancent leur première automatisation en deux semaines."
+      },
+      {
+        "title": "Un humain à l'autre bout",
+        "text": "Une vraie personne répond quand quelque chose doit être corrigé."
+      }
+    ],
+    "stats": [
+      "Équipes automatisées",
+      "Tâches par mois",
+      "Disponibilité de la plateforme"
+    ],
+    "cta": "Parler à notre équipe",
+    "panel": {
+      "running": "Automatisations en cours",
+      "tasks": {
+        "invoice": "Relances de factures",
+        "lead": "Qualification des leads",
+        "support": "Tri des tickets d'assistance",
+        "report": "Rapport hebdomadaire"
+      },
+      "status": {
+        "running": "En cours",
+        "scheduled": "Planifié"
+      },
+      "hours": "12 h",
+      "saved": "gagnées par employé, chaque semaine"
+    },
+    "since": {
+      "title": "Depuis 2021",
+      "text": "Nous aidons les équipes à confier le travail répétitif aux logiciels."
+    }
+  },
+  "industries": {
+    "title": "Nous transformons chaque secteur qui repose sur des tâches répétitives",
+    "subtitle": "Choisissez votre secteur pour voir ce qu'OmniAI automatise pour des équipes comme la vôtre.",
+    "items": {
+      "retail": {
+        "name": "Commerce de détail",
+        "text": "Gardez les rayons approvisionnés et répondez aux clients sans embaucher.",
+        "dashboard": {
+          "title": "Gestion du magasin",
+          "kpis": [
+            {
+              "label": "Commandes aujourd'hui",
+              "value": "3 420"
+            },
+            {
+              "label": "Alertes de stock",
+              "value": "12"
+            },
+            {
+              "label": "Temps de réponse",
+              "value": "40 s"
+            }
+          ],
+          "feed": [
+            "Réapprovisionnement envoyé pour 14 articles en stock faible",
+            "Demande de remboursement approuvée automatiquement",
+            "Rapport de ventes quotidien livré"
+          ]
+        }
+      },
+      "finance": {
+        "name": "Finance",
+        "text": "Rapprochez les factures, repérez les paiements inhabituels et clôturez les comptes plus vite.",
+        "dashboard": {
+          "title": "Service financier",
+          "kpis": [
+            {
+              "label": "Factures rapprochées",
+              "value": "1 208"
+            },
+            {
+              "label": "Paiements signalés",
+              "value": "7"
+            },
+            {
+              "label": "Délai de clôture",
+              "value": "-3 jours"
+            }
+          ],
+          "feed": [
+            "Facture n° 4821 rapprochée du bon de commande",
+            "Paiement inhabituel envoyé pour vérification",
+            "Rapprochement de fin de mois terminé à 94 %"
+          ]
+        }
+      },
+      "healthcare": {
+        "name": "Santé",
+        "text": "Réduisez la paperasse pour que le personnel passe plus de temps avec les patients.",
+        "dashboard": {
+          "title": "Administration clinique",
+          "kpis": [
+            {
+              "label": "Rendez-vous planifiés",
+              "value": "286"
+            },
+            {
+              "label": "Formulaires classés",
+              "value": "914"
+            },
+            {
+              "label": "Absences",
+              "value": "-22 %"
+            }
+          ],
+          "feed": [
+            "Rappel envoyé à 48 patients pour demain",
+            "Formulaire d'assurance rempli et classé",
+            "Suivi programmé pour 6 patients"
+          ]
+        }
+      }
+    },
+    "live": "En direct",
+    "liveDemo": "Démo en direct"
+  },
+  "features": {
+    "title": "Une plateforme. Des possibilités infinies.",
+    "subtitle": "Des fonctionnalités propulsées par l'IA, conçues pour s'adapter à vos workflows uniques.",
+    "learnMore": "En savoir plus",
+    "items": {
+      "tasks": {
+        "title": "Gestion automatisée des tâches",
+        "text": "Éliminez le travail manuel grâce à une automatisation intelligente. Gagnez du temps sur les tâches courantes pour que votre équipe se concentre sur l'innovation et la croissance."
+      },
+      "analytics": {
+        "title": "Analyses prédictives",
+        "text": "Repérez les tendances, anticipez les résultats et optimisez les performances grâce à des prédictions d'IA fondées sur les données, qui évoluent avec votre activité."
+      },
+      "security": {
+        "title": "Gardez vos données sûres et conformes.",
+        "text": "Chiffrement de bout en bout, accès par rôle et conformité aux normes du secteur garantissent la protection complète des données de votre organisation."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Démarrez en 3 étapes simples",
+    "subtitle": "De l'inscription à votre première automatisation en moins d'une journée.",
+    "steps": [
+      {
+        "title": "Inscrivez-vous et connectez",
+        "text": "Créez votre compte et reliez les outils que vous utilisez déjà, comme votre messagerie, votre CRM et vos feuilles de calcul. Cela prend quelques minutes."
+      },
+      {
+        "title": "Personnalisez vos workflows",
+        "text": "Décrivez la tâche en langage courant, ou partez d'un modèle prêt à l'emploi. Ajustez les étapes jusqu'à ce qu'elles correspondent au fonctionnement de votre équipe."
+      },
+      {
+        "title": "Lancez votre automatisation",
+        "text": "Activez-la et regardez-la tourner. Suivez chaque tâche depuis un seul tableau de bord et modifiez tout quand vous le souhaitez."
+      }
+    ],
+    "cta": "Commencer"
+  },
+  "pricing": {
+    "title": "Des tarifs simples et transparents",
+    "subtitle": "Commencez gratuitement et passez à l'offre supérieure quand vous êtes prêt. Sans frais d'installation, résiliable à tout moment.",
+    "perMonth": "/mois",
+    "popular": "Populaire",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Essayez OmniAI gratuitement sur vos premiers workflows.",
+        "cta": "Commencer gratuitement",
+        "features": [
+          "Jusqu'à 3 automatisations",
+          "500 tâches par mois",
+          "Analyses de base",
+          "Support communautaire"
+        ]
+      },
+      "pro": {
+        "name": "Pro Max",
+        "description": "Pour les équipes qui travaillent avec l'automatisation au quotidien.",
+        "cta": "Choisir Pro Max",
+        "features": [
+          "Automatisations illimitées",
+          "50 000 tâches par mois",
+          "Analyses prédictives",
+          "Tous les connecteurs de données",
+          "Support prioritaire par e-mail"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "Pour les grandes équipes ayant des besoins de sécurité et d'échelle.",
+        "cta": "Choisir Enterprise",
+        "features": [
+          "Tout ce qui est inclus dans Pro Max",
+          "Tâches illimitées",
+          "Authentification unique et journaux d'audit",
+          "Responsable de compte dédié",
+          "Garantie de disponibilité de 99,9 %"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Découvrez comment les équipes évoluent avec OmniAI",
+    "subtitle": "Des résultats concrets d'équipes qui ont confié leur travail répétitif à l'automatisation.",
+    "reviews": [
+      {
+        "highlight": "5x",
+        "label": "plus rapide pour les rapports mensuels",
+        "quote": "OmniAI a repris les rapports que notre équipe faisait à la main. Ce qui prenait deux jours est maintenant terminé avant le déjeuner.",
+        "role": "Responsable des opérations, Northwind Retail"
+      },
+      {
+        "highlight": "70 %",
+        "label": "de temps en moins sur les relances",
+        "quote": "Nous ne courons plus après les factures et les tickets par e-mail. Les automatisations tournent discrètement pendant que mon équipe fait du vrai travail.",
+        "role": "Responsable financier, Brightpath"
+      },
+      {
+        "highlight": "3 jours",
+        "label": "gagnés à chaque clôture mensuelle",
+        "quote": "La mise en place a pris un après-midi. Les factures se rapprochent toutes seules, et toute anomalie est signalée avant de devenir un problème.",
+        "role": "Directrice financière, Crestline"
+      }
+    ],
+    "starsLabel": "{{rating}} étoiles sur 5"
+  },
+  "cta": {
+    "title": "Automatisez dès aujourd'hui l'analyse de vos ventes",
+    "text": "Connectez vos données une fois et recevez des rapports clairs chaque semaine, sans créer un seul tableur.",
+    "primary": "Commencer gratuitement",
+    "secondary": "Réserver une démo",
+    "note": "Aucune carte bancaire requise. Résiliable à tout moment."
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Parlons de ce que vous souhaitez automatiser",
+    "subtitle": "Envoyez-nous un message, une vraie personne vous répondra.",
+    "detailsTitle": "Coordonnées",
+    "detailsText": "Vous préférez l'e-mail ? Écrivez-nous directement ou utilisez le formulaire.",
+    "formTitle": "Envoyez-nous un message",
+    "info": {
+      "email": {
+        "title": "Écrivez-nous"
+      },
+      "hours": {
+        "title": "Horaires",
+        "value": "Du lundi au vendredi, de 9 h à 18 h"
+      },
+      "response": {
+        "title": "Délai de réponse",
+        "value": "Sous un jour ouvré"
+      }
+    }
+  },
+  "contactForm": {
+    "name": "Nom complet",
+    "namePlaceholder": "Votre nom",
+    "email": "E-mail professionnel",
+    "emailPlaceholder": "vous@entreprise.com",
+    "company": "Entreprise",
+    "optional": "(facultatif)",
+    "companyPlaceholder": "Nom de l'entreprise",
+    "topic": "Quel est l'objet de votre message ?",
+    "topics": {
+      "general": "Question générale",
+      "sales": "Ventes et tarifs",
+      "demo": "Réserver une démo",
+      "support": "Assistance",
+      "partnership": "Partenariat"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Dites-nous ce que vous souhaitez automatiser...",
+    "send": "Envoyer le message",
+    "sentTitle": "Message envoyé",
+    "sentText": "Merci, {{name}}. Nous répondrons à {{email}} sous un jour ouvré."
+  },
+  "auth": {
+    "bgAlt": "Arrière-plan OmniAI",
+    "emailLabel": "Adresse e-mail",
+    "emailPlaceholder": "vous@entreprise.com",
+    "passwordLabel": "Mot de passe",
+    "minChars": "Au moins 8 caractères",
+    "showPassword": "Afficher le mot de passe",
+    "hidePassword": "Masquer le mot de passe",
+    "backToLogin": "Retour à la connexion",
+    "rememberPassword": "Vous vous souvenez de votre mot de passe ?",
+    "logIn": "Se connecter",
+    "errors": {
+      "tooShort": "Le mot de passe doit contenir au moins 8 caractères.",
+      "mismatch": "Les mots de passe ne correspondent pas.",
+      "missingToken": "Le jeton de réinitialisation est manquant. Veuillez demander un nouveau lien."
+    },
+    "login": {
+      "title": "Bon retour",
+      "subtitle": "Connectez-vous pour accéder à votre espace OmniAI.",
+      "forgot": "Mot de passe oublié ?",
+      "passwordPlaceholder": "Saisissez votre mot de passe",
+      "remember": "Se souvenir de moi",
+      "loading": "Connexion...",
+      "submit": "Se connecter",
+      "orContinue": "Ou continuer avec",
+      "noAccount": "Vous n'avez pas de compte ?",
+      "createAccount": "Créer un compte"
+    },
+    "register": {
+      "title": "Bienvenue chez OmniAI",
+      "subtitle": "Créez votre espace OmniAI.",
+      "selectedPlan": "Offre choisie",
+      "change": "Modifier",
+      "nameLabel": "Nom",
+      "namePlaceholder": "Alexandre",
+      "loading": "Création du compte...",
+      "submit": "Créer un compte",
+      "agree": "En vous inscrivant, vous acceptez nos <terms>Conditions</terms> et notre <privacy>Politique de confidentialité</privacy>.",
+      "haveAccount": "Vous avez déjà un compte ?",
+      "signIn": "Se connecter"
+    },
+    "forgot": {
+      "title": "Mot de passe oublié ?",
+      "subtitle": "Saisissez votre e-mail et nous vous enverrons un lien pour le réinitialiser.",
+      "sentTitle": "Vérifiez votre boîte mail",
+      "sentText": "Si un compte existe pour {{email}}, un lien de réinitialisation est en route.",
+      "submit": "Envoyer le lien"
+    },
+    "reset": {
+      "title": "Définir un nouveau mot de passe",
+      "subtitle": "Choisissez un mot de passe robuste que vous n'avez jamais utilisé.",
+      "doneTitle": "Mot de passe mis à jour",
+      "doneText": "Vous pouvez maintenant vous connecter avec votre nouveau mot de passe.",
+      "goToLogin": "Aller à la connexion",
+      "newPassword": "Nouveau mot de passe",
+      "confirmPassword": "Confirmer le nouveau mot de passe",
+      "confirmPlaceholder": "Saisissez-le à nouveau",
+      "hideConfirm": "Masquer la confirmation",
+      "showConfirm": "Afficher la confirmation",
+      "submit": "Mettre à jour le mot de passe"
+    }
+  },
+  "checkout": {
+    "title": "Finalisez votre mise à niveau",
+    "subtitle": "Vous souscrivez à l'offre {{plan}}.",
+    "paymentDetails": "Détails du paiement",
+    "successTitle": "Paiement réussi",
+    "successText": "Bienvenue dans l'offre {{plan}}. Un reçu a été envoyé à votre adresse e-mail.",
+    "continue": "Continuer"
+  },
+  "payment": {
+    "nameLabel": "Nom sur la carte",
+    "namePlaceholder": "Votre nom",
+    "cardLabel": "Numéro de carte",
+    "cardPlaceholder": "1234 5678 9012 3456",
+    "expiryLabel": "Expiration",
+    "expiryPlaceholder": "MM/AA",
+    "cvcLabel": "Code de sécurité",
+    "cvcPlaceholder": "CVC",
+    "processing": "Traitement...",
+    "pay": "Payer {{amount}}",
+    "secure": "Vos données de paiement sont chiffrées. Vous pouvez résilier à tout moment.",
+    "errors": {
+      "card": "Veuillez saisir un numéro de carte valide à 16 chiffres.",
+      "expiry": "Veuillez saisir la date d'expiration au format MM/AA.",
+      "cvc": "Veuillez saisir le code de sécurité à 3 chiffres."
+    }
+  },
+  "order": {
+    "title": "Récapitulatif de commande",
+    "planTitle": "Offre {{plan}}",
+    "monthly": "{{plan}} (mensuel)",
+    "tax": "Taxes",
+    "total": "Total aujourd'hui",
+    "billed": "Facturation mensuelle. Résiliation possible à tout moment depuis les paramètres du compte."
+  },
+  "legal": {
+    "label": "Mentions légales",
+    "lastUpdated": "Dernière mise à jour : {{date}}",
+    "onThisPage": "Sur cette page",
+    "rights": "© {{year}} OmniAI. Tous droits réservés."
+  },
+  "footer": {
+    "tagline": "L'automatisation par l'IA qui décharge votre équipe des tâches répétitives.",
+    "newsletterTitle": "Recevoir les actualités produit",
+    "newsletterText": "Un e-mail par mois. Pas de spam.",
+    "placeholder": "vous@entreprise.com",
+    "subscribe": "S'abonner",
+    "thanks": "Merci, vous êtes inscrit.",
+    "product": "Produit",
+    "company": "Entreprise",
+    "account": "Compte",
+    "signup": "S'inscrire",
+    "rights": "Tous droits réservés.",
+    "privacy": "Confidentialité",
+    "terms": "Conditions",
+    "emailLabel": "Adresse e-mail",
+    "backToTop": "Retour en haut",
+    "forgotPassword": "Mot de passe oublié"
+  },
+  "widget": {
+    "salesAnalysis": "Analyse des ventes",
+    "live": "En direct",
+    "revenue": "Chiffre d'affaires ce trimestre",
+    "vsLast": "vs trimestre précédent",
+    "reportReady": "Rapport prêt",
+    "sentToTeam": "Envoyé à votre équipe",
+    "week": "Semaine {{n}}"
+  },
+  "taskCard": {
+    "completed": "Tâches terminées ce mois-ci",
+    "trendAria": "Tendance des tâches terminées, en hausse",
+    "onboarding": "E-mails d'accueil",
+    "sync": "Synchronisation des données avec le CRM",
+    "contracts": "Rappels de contrats",
+    "done": "Terminé",
+    "inProgress": "En cours"
+  },
+  "predictiveCard": {
+    "forecastFor": "Prévision pour décembre",
+    "predicted": "Prévu",
+    "actual": "Réel",
+    "forecast": "Prévision",
+    "months": [
+      "Juin",
+      "Juil.",
+      "Août",
+      "Sept.",
+      "Oct.",
+      "Nov.",
+      "Déc."
+    ]
+  },
+  "securityCard": {
+    "signIn": "Connexion sécurisée",
+    "twoStep": "Code en 2 étapes",
+    "verified": "Vérifié",
+    "threats": "Menaces bloquées cette semaine",
+    "signedIn": "Connecté",
+    "blocked": "Bloqué",
+    "verified2": "Double authentification validée",
+    "unknown": "Appareil inconnu",
+    "emailSara": "sara@entreprise.fr",
+    "emailAli": "ali@entreprise.fr"
+  }
+}

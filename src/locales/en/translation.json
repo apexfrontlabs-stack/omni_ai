@@ -1,0 +1,487 @@
+﻿{
+  "nav": {
+    "about": "About Us",
+    "industries": "Industries",
+    "features": "Features",
+    "pricing": "Pricing",
+    "contact": "Contact",
+    "login": "Log in",
+    "getStarted": "Get started",
+    "home": "Home",
+    "openMenu": "Open menu",
+    "closeMenu": "Close menu",
+    "language": "Language",
+    "backToHome": "Back to home"
+  },
+  "hero": {
+    "badge": "AI automation for growing teams",
+    "title": "Automate the busywork. Keep the decisions.",
+    "subtitle": "OmniAI connects your tools, learns your processes, and runs them for you, so your team spends its day on work that needs a human.",
+    "cta": "Get started",
+    "secondary": "See how it works",
+    "trusted": "Trusted by 500+ teams automating daily work",
+    "cards": {
+      "timeSaved": "Time saved this week",
+      "hours": "128 hrs",
+      "hoursReturned": "Hours returned to your team",
+      "workflow": "Automation workflow",
+      "active": "Active",
+      "invoice": "Invoice follow-ups",
+      "running": "Running now · 42 sent today",
+      "tasksCompleted": "Tasks completed",
+      "today": "Today",
+      "tasks": "1,284 tasks",
+      "routineWork": "Routine work handled by AI"
+    }
+  },
+  "about": {
+    "title": "We make automation feel like a teammate, not a project",
+    "text": "OmniAI takes copy, paste, and follow-up off your plate and keeps working while you focus on the decisions that matter.",
+    "values": [
+      {
+        "title": "Built around your process",
+        "text": "We study how your team works before we automate a step."
+      },
+      {
+        "title": "Live in weeks, not months",
+        "text": "Most clients run their first automation in two weeks."
+      },
+      {
+        "title": "A human on the other end",
+        "text": "A real person answers when something needs fixing."
+      }
+    ],
+    "stats": [
+      "Teams automated",
+      "Tasks every month",
+      "Platform uptime"
+    ],
+    "cta": "Talk to our team",
+    "panel": {
+      "running": "Automations running now",
+      "tasks": {
+        "invoice": "Invoice follow-ups",
+        "lead": "Lead qualification",
+        "support": "Support ticket sorting",
+        "report": "Weekly report"
+      },
+      "status": {
+        "running": "Running",
+        "scheduled": "Scheduled"
+      },
+      "hours": "12 hrs",
+      "saved": "saved per employee, weekly"
+    },
+    "since": {
+      "title": "Since 2021",
+      "text": "Helping teams hand repetitive work to software."
+    }
+  },
+  "industries": {
+    "title": "Transforming every industry that runs on routine work",
+    "subtitle": "Pick your industry to see what OmniAI automates for teams like yours.",
+    "items": {
+      "retail": {
+        "name": "Retail",
+        "text": "Keep shelves stocked and customers answered without adding staff.",
+        "dashboard": {
+          "title": "Store operations",
+          "kpis": [
+            {
+              "label": "Orders today",
+              "value": "3,420"
+            },
+            {
+              "label": "Stock alerts",
+              "value": "12"
+            },
+            {
+              "label": "Reply time",
+              "value": "40 sec"
+            }
+          ],
+          "feed": [
+            "Reorder sent for 14 low-stock items",
+            "Refund request approved automatically",
+            "Daily sales report delivered"
+          ]
+        }
+      },
+      "finance": {
+        "name": "Finance",
+        "text": "Match invoices, flag odd payments, and close the books faster.",
+        "dashboard": {
+          "title": "Finance desk",
+          "kpis": [
+            {
+              "label": "Invoices matched",
+              "value": "1,208"
+            },
+            {
+              "label": "Flagged payments",
+              "value": "7"
+            },
+            {
+              "label": "Close time",
+              "value": "-3 days"
+            }
+          ],
+          "feed": [
+            "Invoice #4821 matched to purchase order",
+            "Unusual payment sent for review",
+            "Month-end reconciliation 94% done"
+          ]
+        }
+      },
+      "healthcare": {
+        "name": "Healthcare",
+        "text": "Cut paperwork so staff spend more of their day with patients.",
+        "dashboard": {
+          "title": "Clinic admin",
+          "kpis": [
+            {
+              "label": "Appointments set",
+              "value": "286"
+            },
+            {
+              "label": "Forms filed",
+              "value": "914"
+            },
+            {
+              "label": "No-shows",
+              "value": "-22%"
+            }
+          ],
+          "feed": [
+            "Reminder sent to 48 patients for tomorrow",
+            "Insurance form completed and filed",
+            "Follow-up booked for 6 patients"
+          ]
+        }
+      }
+    },
+    "live": "Live",
+    "liveDemo": "Live demo"
+  },
+  "features": {
+    "title": "One platform. Endless possibilities.",
+    "subtitle": "AI-powered features designed to adapt to your unique workflows.",
+    "learnMore": "Learn More",
+    "items": {
+      "tasks": {
+        "title": "Automated Task Management",
+        "text": "Eliminate manual work with intelligent automation. Save time on routine tasks so your team can focus on innovation and growth."
+      },
+      "analytics": {
+        "title": "Predictive Analytics",
+        "text": "Identify trends, forecast outcomes, and optimize performance using data-driven AI predictions that adapt as your business evolves."
+      },
+      "security": {
+        "title": "Keep your data safe and compliant.",
+        "text": "End-to-end encryption, role-based access, and industry-standard compliance ensure your organization's data remains fully protected."
+      }
+    }
+  },
+  "howItWorks": {
+    "title": "Get started in 3 easy steps",
+    "subtitle": "From sign-up to your first running automation in less than a day.",
+    "steps": [
+      {
+        "title": "Sign up and connect",
+        "text": "Create your account and link the tools you already use, like your inbox, CRM, and spreadsheets. It takes a few minutes."
+      },
+      {
+        "title": "Customize your workflows",
+        "text": "Describe the task in plain language, or start from a ready template. Adjust the steps until they match how your team works."
+      },
+      {
+        "title": "Launch your automation",
+        "text": "Switch it on and watch it run. Track every task from one dashboard, and change anything whenever you need."
+      }
+    ],
+    "cta": "Get started"
+  },
+  "pricing": {
+    "title": "Simple, transparent pricing",
+    "subtitle": "Start free and upgrade when you are ready. No setup fees, cancel anytime.",
+    "perMonth": "/month",
+    "popular": "Popular",
+    "plans": {
+      "starter": {
+        "name": "Starter",
+        "description": "Try OmniAI on your first workflows, free.",
+        "cta": "Start for free",
+        "features": [
+          "Up to 3 automations",
+          "500 tasks per month",
+          "Basic analytics",
+          "Community support"
+        ]
+      },
+      "pro": {
+        "name": "Pro Max",
+        "description": "For teams that run on automation every day.",
+        "cta": "Get Pro Max",
+        "features": [
+          "Unlimited automations",
+          "50,000 tasks per month",
+          "Predictive analytics",
+          "All data connectors",
+          "Priority email support"
+        ]
+      },
+      "enterprise": {
+        "name": "Enterprise",
+        "description": "For larger teams with security and scale needs.",
+        "cta": "Get Enterprise",
+        "features": [
+          "Everything in Pro Max",
+          "Unlimited tasks",
+          "Single sign-on and audit logs",
+          "Dedicated account manager",
+          "99.9% uptime guarantee"
+        ]
+      }
+    }
+  },
+  "testimonials": {
+    "title": "See how teams are scaling with OmniAI",
+    "subtitle": "Real results from teams that handed their routine work to automation.",
+    "reviews": [
+      {
+        "highlight": "5x",
+        "label": "faster monthly reporting",
+        "quote": "OmniAI took over the reports our team used to build by hand. What took two days now finishes before lunch.",
+        "role": "Operations Lead, Northwind Retail"
+      },
+      {
+        "highlight": "70%",
+        "label": "less time on follow-ups",
+        "quote": "We stopped chasing invoices and tickets by email. The automations run quietly while my team does real work.",
+        "role": "Finance Manager, Brightpath"
+      },
+      {
+        "highlight": "3 days",
+        "label": "saved on every month-end close",
+        "quote": "Setup took one afternoon. Invoices now match themselves, and anything odd is flagged before it becomes a problem.",
+        "role": "Head of Finance, Crestline"
+      }
+    ],
+    "starsLabel": "{{rating}} out of 5 stars"
+  },
+  "cta": {
+    "title": "Automate your sales analysis today",
+    "text": "Connect your data once, and get clear reports every week without building a single spreadsheet.",
+    "primary": "Get started free",
+    "secondary": "Book a demo",
+    "note": "No credit card needed. Cancel anytime."
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Let us talk about what you want to automate",
+    "subtitle": "Send us a message and a real person will get back to you.",
+    "detailsTitle": "Contact details",
+    "detailsText": "Prefer email? Reach us directly, or use the form.",
+    "formTitle": "Send us a message",
+    "info": {
+      "email": {
+        "title": "Email us"
+      },
+      "hours": {
+        "title": "Working hours",
+        "value": "Mon to Fri, 9am to 6pm"
+      },
+      "response": {
+        "title": "Response time",
+        "value": "Within one business day"
+      }
+    }
+  },
+  "contactForm": {
+    "name": "Full name",
+    "namePlaceholder": "Your name",
+    "email": "Work email",
+    "emailPlaceholder": "you@company.com",
+    "company": "Company",
+    "optional": "(optional)",
+    "companyPlaceholder": "Company name",
+    "topic": "What is this about?",
+    "topics": {
+      "general": "General question",
+      "sales": "Sales and pricing",
+      "demo": "Book a demo",
+      "support": "Support",
+      "partnership": "Partnership"
+    },
+    "message": "Message",
+    "messagePlaceholder": "Tell us what you would like to automate...",
+    "send": "Send message",
+    "sentTitle": "Message sent",
+    "sentText": "Thanks, {{name}}. We will reply to {{email}} within one business day."
+  },
+  "auth": {
+    "bgAlt": "OmniAI background",
+    "emailLabel": "Email address",
+    "emailPlaceholder": "you@company.com",
+    "passwordLabel": "Password",
+    "minChars": "At least 8 characters",
+    "showPassword": "Show password",
+    "hidePassword": "Hide password",
+    "backToLogin": "Back to log in",
+    "rememberPassword": "Remember your password?",
+    "logIn": "Log in",
+    "errors": {
+      "tooShort": "Password must be at least 8 characters.",
+      "mismatch": "Passwords do not match.",
+      "missingToken": "Reset token is missing. Please request a new reset link."
+    },
+    "login": {
+      "title": "Welcome back",
+      "subtitle": "Sign in to continue to your OmniAI workspace.",
+      "forgot": "Forgot password?",
+      "passwordPlaceholder": "Enter your password",
+      "remember": "Remember me",
+      "loading": "Signing in...",
+      "submit": "Sign in",
+      "orContinue": "Or continue with",
+      "noAccount": "Don't have an account?",
+      "createAccount": "Create account"
+    },
+    "register": {
+      "title": "Welcome to OmniAI",
+      "subtitle": "Create your OmniAI workspace.",
+      "selectedPlan": "Selected plan",
+      "change": "Change",
+      "nameLabel": "Name",
+      "namePlaceholder": "Alexander",
+      "loading": "Creating account...",
+      "submit": "Create account",
+      "agree": "By signing up you agree to our <terms>Terms</terms> and <privacy>Privacy Policy</privacy>.",
+      "haveAccount": "Already have an account?",
+      "signIn": "Sign in"
+    },
+    "forgot": {
+      "title": "Forgot your password?",
+      "subtitle": "Enter your email and we will send you a link to reset it.",
+      "sentTitle": "Check your email",
+      "sentText": "If an account exists for {{email}}, a reset link is on its way.",
+      "submit": "Send reset link"
+    },
+    "reset": {
+      "title": "Set a new password",
+      "subtitle": "Choose a strong password you have not used before.",
+      "doneTitle": "Password updated",
+      "doneText": "You can now log in with your new password.",
+      "goToLogin": "Go to log in",
+      "newPassword": "New password",
+      "confirmPassword": "Confirm new password",
+      "confirmPlaceholder": "Type it again",
+      "hideConfirm": "Hide confirm password",
+      "showConfirm": "Show confirm password",
+      "submit": "Update password"
+    }
+  },
+  "checkout": {
+    "title": "Complete your upgrade",
+    "subtitle": "You are subscribing to the {{plan}} plan.",
+    "paymentDetails": "Payment details",
+    "successTitle": "Payment successful",
+    "successText": "Welcome to the {{plan}} plan. A receipt has been sent to your email.",
+    "continue": "Continue"
+  },
+  "payment": {
+    "nameLabel": "Name on card",
+    "namePlaceholder": "Your name",
+    "cardLabel": "Card number",
+    "cardPlaceholder": "1234 5678 9012 3456",
+    "expiryLabel": "Expiry",
+    "expiryPlaceholder": "MM/YY",
+    "cvcLabel": "Security code",
+    "cvcPlaceholder": "CVC",
+    "processing": "Processing...",
+    "pay": "Pay {{amount}}",
+    "secure": "Your payment details are encrypted. You can cancel anytime.",
+    "errors": {
+      "card": "Please enter a valid 16-digit card number.",
+      "expiry": "Please enter the expiry date as MM/YY.",
+      "cvc": "Please enter the 3-digit security code."
+    }
+  },
+  "order": {
+    "title": "Order summary",
+    "planTitle": "{{plan}} plan",
+    "monthly": "{{plan}} (monthly)",
+    "tax": "Tax",
+    "total": "Total today",
+    "billed": "Billed monthly. Cancel anytime from your account settings."
+  },
+  "legal": {
+    "label": "Legal",
+    "lastUpdated": "Last updated: {{date}}",
+    "onThisPage": "On this page",
+    "rights": "©  OmniAI. All rights reserved."
+  },
+  "footer": {
+  "tagline": "AI automation that takes repetitive work off your team.",
+  "newsletterTitle": "Get product updates",
+  "newsletterText": "One email a month. No spam.",
+  "placeholder": "you@company.com",
+  "subscribe": "Subscribe",
+  "thanks": "Thanks, you are subscribed.",
+  "product": "Product",
+  "company": "Company",
+  "account": "Account",
+  "signup": "Sign up",
+  "rights": "All rights reserved.",
+  "privacy": "Privacy",
+  "terms": "Terms",
+  "emailLabel": "Email address",
+  "backToTop": "Back to top",
+  "forgotPassword": "Forgot password"
+},
+  "widget": {
+    "salesAnalysis": "Sales Analysis",
+    "live": "Live",
+    "revenue": "Revenue this quarter",
+    "vsLast": "vs last quarter",
+    "reportReady": "Report ready",
+    "sentToTeam": "Sent to your team",
+    "week": "Week {{n}}"
+  },
+  "taskCard": {
+    "completed": "Tasks completed this month",
+    "trendAria": "Tasks completed trend, rising",
+    "onboarding": "Onboarding emails",
+    "sync": "Data sync with CRM",
+    "contracts": "Contract reminders",
+    "done": "Done",
+    "inProgress": "In progress"
+  },
+  "predictiveCard": {
+    "forecastFor": "Forecast for December",
+    "predicted": "Predicted",
+    "actual": "Actual",
+    "forecast": "Forecast",
+    "months": [
+      "Jun",
+      "Jul",
+      "Aug",
+      "Sep",
+      "Oct",
+      "Nov",
+      "Dec"
+    ]
+  },
+  "securityCard": {
+    "signIn": "Secure sign-in",
+    "twoStep": "2-step code",
+    "verified": "Verified",
+    "threats": "Threats blocked this week",
+    "signedIn": "Signed in",
+    "blocked": "Blocked",
+    "verified2": "Verified 2-step",
+    "unknown": "Unknown device",
+    "emailSara": "sara@company.com",
+    "emailAli": "ali@company.com"
+  }
+}
